@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Weapon()
+comment1.params=
+comment1.target=int\ getDmg()
+comment2.params=dmg
+comment2.target=void\ setDmg(int)
+numComments=3

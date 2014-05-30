@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Item()
+comment1.params=
+comment1.target=int\ getGold()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getLvl()
+comment4.params=gold
+comment4.target=void\ setGold(int)
+comment5.params=lvl
+comment5.target=void\ setLvl(int)
+numComments=6

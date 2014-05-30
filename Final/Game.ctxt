@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Game()
+comment1.params=z\ a
+comment1.target=void\ town(int[],\ Item[])
+comment2.params=z\ a
+comment2.target=void\ buy(int[],\ Item[])
+comment3.params=z\ a
+comment3.target=void\ sell(int[],\ Item[])
+comment4.params=z\ a\ y
+comment4.target=void\ encounter(int[],\ int[],\ Item[])
+comment5.params=z\ a
+comment5.target=void\ first(int[],\ Item[])
+comment6.params=z\ a
+comment6.target=void\ second(int[],\ Item[])
+comment7.params=z\ a
+comment7.target=void\ third(int[],\ Item[])
+comment8.params=z\ a
+comment8.target=void\ boss(int[],\ Item[])
+comment9.params=
+comment9.target=void\ exit()
+numComments=10
